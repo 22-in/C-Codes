@@ -1,0 +1,21 @@
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# C++ related
+*.o
+*.obj
+*.exe
+*.out
+
+# Java related
+*.class
+*.jar
+*.war
+
+# OS related (Faltu files)
+.DS_Store
+Thumbs.db
